@@ -1,7 +1,7 @@
 # Portfólio - Seilani Fontes
 
 Este é o portfólio digital de Seilani Fontes, uma desenvolvedora front-end apaixonada por criar experiências digitais acessíveis e inovadoras. O site exibe projetos, informações sobre a desenvolvedora e formas de contato.
-
+<img src="https://github.com/SeilaniF/portfolio/blob/master/Capturarport.PNG?raw=true">
 <img src="https://github.com/SeilaniF/portfolio/blob/master/Capturarpor.PNG?raw=true](https://github.com/SeilaniF/portfolio/blob/master/Capturarpor.PNG?raw=true">
 
 ## Estrutura do Projeto
